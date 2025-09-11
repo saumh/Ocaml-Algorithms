@@ -1,0 +1,9 @@
+(test
+ (name test_sorting)
+ (libraries sorting alcotest))
+(test
+ (name test_trees)
+ (libraries trees alcotest))
+(test
+ (name test_graphs)
+ (libraries graphs alcotest))
