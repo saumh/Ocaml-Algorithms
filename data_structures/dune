@@ -1,2 +1,3 @@
 (library
- (name data_structures))
+ (name data_structures)
+ (modules Linked_list Queue Heap Stack))

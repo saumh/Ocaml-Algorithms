@@ -1,2 +1,4 @@
 (library
- (name sorting))
+ (name sorting)
+ (modules heap_sort merge_sort quick_sort)
+ (libraries data_structures))

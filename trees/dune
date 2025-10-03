@@ -1,2 +1,3 @@
 (library
- (name trees))
+ (name trees)
+ (modules bst rb_tree))

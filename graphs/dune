@@ -1,2 +1,4 @@
 (library
- (name graphs))
+ (name graphs)
+ (modules Graph Topological_sort Bfs Dfs)
+ (libraries data_structures))
