@@ -1,0 +1,4 @@
+; app/dune
+(executable
+ (name main)
+ (libraries data_structures trees sorting graphs))
